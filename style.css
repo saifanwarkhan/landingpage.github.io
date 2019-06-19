@@ -1,0 +1,85 @@
+.fontawe{
+
+	font-size: 20px;
+	color: skyblue;
+	margin-top: 20px;
+	margin-right: 25px;
+	margin-left: 15px;
+	border-radius: 50%;
+	
+	
+	
+}
+/**{
+
+	font-family: 'carter one', sans-serif;
+}*/
+
+  a{
+
+	font-family: 'Noto Sans SC', 
+	sans-serif!important;
+font-family: 'Orbitron', 
+sans-serif!important;
+font-family: 'Concert One', cursive;
+	padding:10px 15px;
+	margin: 10px 15px;
+	text-decoration: none;
+	color: red;
+	font-size: 18px;
+}
+a: hover
+{
+text-decoration: underline;
+color: pink;	
+
+}
+
+
+.img{
+
+margin-top: 100px;
+width: 500px; 
+margin-left: 50px; 
+height: 500px; 
+border-radius: 50%;
+}
+
+.text p{
+
+margin-top: 100px;
+font-size: 12px;
+}
+
+.text h1{
+
+	font-size: 80px;
+	margin-top: 50px;
+	margin-left: 100px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bolder;
+}
+
+.span{
+
+	margin-left: 68%;
+}
+.btn1
+{
+
+	width: 250px;
+	margin-top: 60px;
+	margin-left: 40px;
+	border-radius: 50px;
+	height: 60px;
+	font-size: 20px;
+	background-image: 
+	linear-gradient(to right, purple,blue);
+	font-family: 'Montserrat', sans-serif;
+}
+
+h6{
+
+	margin-top: 50px;
+
+}
